@@ -140,11 +140,19 @@ Evidencia de Ejecución de Casos de prueba.
 * Tener Instalado Visual Studio
 * Instalar el FrameWork de asp.NET
 * Tener un sistema operativo de gama media
+* Tener acceso a la base de datos del proyecto
   
 
 <!-- Instalación -->
 ### Instalacion
-Instalación del Software
+Para poder trabajar con el proyecto tuvimos que realizar una serie de pasos los cuales nos permitieran trabajar con el proyecto
+esto con la intencion de que cada integrante pudiera realizarlo de manera local en su respectivo equipo de trabajo
+
+* Instalacion de tortoise
+
+usamos el software de tortoise para bajar el proyecto 
+
+* 
 
 
 ## Participantes
