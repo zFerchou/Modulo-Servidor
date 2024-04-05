@@ -73,8 +73,7 @@ Organigrama.
 
 <!-- Análisis del proyecto -->
 ## Análisis de la Solución.
-En ésta sección se indicará los artefactos generados en base a la solución.
-
+La empresa tenía toda la información guardada en documentos de Excel, lo cual era un problema ya que hacía todo más tedioso de trabajar. Lo que nosotros hicimos fue crear un CRUD en su propio proyecto, el cual permitiera manipular la información que requerían de manera más rápida y efectiva.
 <!-- Requerimientos -->
 #### Requerimientos.
 ![image](https://github.com/zFerchou/Modulo-Servidor/assets/148410334/6c4c8af0-2cd5-45a3-8a47-a213b7d6b417)
