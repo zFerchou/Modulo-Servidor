@@ -100,7 +100,8 @@ Esquema de la base de datos (nombre de campo, tipo de datos, restricciones, etc)
 
 <!-- Diagrama de Clases -->
 #### Diagrama de Clases.
-Esquema de las clases empleadas (atributos y sus métodos).
+![image](https://github.com/zFerchou/Modulo-Servidor/assets/148410334/96c6dd13-0844-4fd2-81b6-6ad89330e3e5)
+
 
 <!-- Diagrama de Componentes -->
 #### Diagrama de Componentes.
