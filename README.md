@@ -56,16 +56,11 @@
 
 <!-- Descripción -->
 #### Descripción.
-El proyecto estaba planeado para ser trabajado en un periodo de 4 meses en los cuales los integrantes de los equipos se encargarian de
-realizar un modulo por cada equipo respectivamente de manera que todos contribuyeran con una parte del mismo y que se fuera desarrollando 
-de forma que todos los equipos trabajaran al mismo ritmo.
+El proyecto estaba planeado para ser trabajado en un período de 4 meses, durante los cuales los integrantes de los equipos se encargarían de desarrollar un módulo cada uno, de manera que todos contribuyeran con una parte del mismo y se fuera desarrollando de forma que todos los equipos trabajaran al mismo ritmo.
 
 <!-- Objetivos -->
 #### Objetivos.
-Los objetivos se trabajaron todos al mismo tiempo, tomando por principal el trabajo en equipo y la capacidad de adaptacion que tenian los
-integrantes de los equipos para poder trabajar en un modulo indicado por el encargado a lo que fueron en total 4 equipos los cuales se dividieron
-en una cantidad de 5 a 6 personas para lograr realizar cada modulo, en cada equipo habia un encargado de dirigir el equipo y era quien asignaba las
-tareas a los integrantes del mismo.
+Los objetivos se trabajaron simultáneamente, centrándose principalmente en el trabajo en equipo y la capacidad de adaptación de los integrantes de los equipos para trabajar en un módulo asignado por el encargado. En total, participaron 4 equipos que se dividieron en grupos de 5 a 6 personas para desarrollar cada módulo. En cada equipo, había un líder encargado de dirigir y asignar las tareas a los integrantes del equipo.
 
 <!-- Organigrama -->
 #### Organigrama.
