@@ -84,9 +84,7 @@ La empresa tenía toda la información guardada en documentos de Excel, lo cual 
 
 
 
-<!-- Diagrama de Casos de Uso -->
-#### Diagrama Casos de Uso.
-Agregar la imagen de los Casos de Uso.
+
 
 
 
@@ -150,9 +148,13 @@ esto con la intencion de que cada integrante pudiera realizarlo de manera local 
 
 * Instalacion de tortoise
 
-usamos el software de tortoise para bajar el proyecto 
+Usamos el software de tortoise para bajar el proyecto
+mediante una URL bajamos el proyecto de forma que todos 
+los tengamos acceso al proyecto mediante nuestros equipos
 
-* 
+* Acceder con las credenciales proporcionadas
+
+Accedimos con las credenciales
 
 
 ## Participantes
