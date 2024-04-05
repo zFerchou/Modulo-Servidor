@@ -90,7 +90,9 @@ La empresa tenía toda la información guardada en documentos de Excel, lo cual 
 
 <!-- Diseño del proyecto -->
 ## Diseño de la Solución.
-![image](https://github.com/zFerchou/Modulo-Servidor/assets/148410334/468904e6-e59e-43df-a60b-497a4f2169fe)
+![image](https://github.com/zFerchou/Modulo-Servidor/assets/148410334/4d242744-c4cd-4ddd-b250-8e8aee1bce4b)
+![image](https://github.com/zFerchou/Modulo-Servidor/assets/148410334/567c9f4d-8ef0-4ac7-93e3-5f733241d812)
+
 
 
 <!-- Modelo Relacional -->
