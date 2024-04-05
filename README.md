@@ -54,7 +54,6 @@
 
 <!-- Acerca del proyecto -->
 ## Acerca del proyecto
-El proyecto
 
 <!-- Descripción -->
 #### Descripción.
@@ -64,7 +63,10 @@ de forma que todos los equipos trabajaran al mismo ritmo.
 
 <!-- Objetivos -->
 #### Objetivos.
-Indicar los objetivos del proyecto.
+Los objetivos se trabajaron todos al mismo tiempo, tomando por principal el trabajo en equipo y la capacidad de adaptacion que tenian los
+integrantes de los equipos para poder trabajar en un modulo indicado por el encargado a lo que fueron en total 4 equipos los cuales se dividieron
+en una cantidad de 5 a 6 personas para lograr realizar cada modulo, en cada equipo habia un encargado de dirigir el equipo y era quien asignaba las
+tareas a los integrantes del mismo.
 
 <!-- Organigrama -->
 #### Organigrama.
