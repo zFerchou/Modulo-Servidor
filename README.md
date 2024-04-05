@@ -77,7 +77,13 @@ En ésta sección se indicará los artefactos generados en base a la solución.
 
 <!-- Requerimientos -->
 #### Requerimientos.
-Listado de los requerimientos (código requerimiento, descripción)
+![image](https://github.com/zFerchou/Modulo-Servidor/assets/148410334/6c4c8af0-2cd5-45a3-8a47-a213b7d6b417)
+![image](https://github.com/zFerchou/Modulo-Servidor/assets/148410334/5837e2a7-61c2-48b7-b89d-5fbf216a7ccb)
+![image](https://github.com/zFerchou/Modulo-Servidor/assets/148410334/8e8fcf10-9b3c-4903-82df-cab263be34dc)
+![image](https://github.com/zFerchou/Modulo-Servidor/assets/148410334/6b8d5357-503f-42a5-92be-6e53de147947)
+![image](https://github.com/zFerchou/Modulo-Servidor/assets/148410334/3e1b48e7-191d-4138-a97e-2b71965ac376)
+
+
 
 <!-- Diagrama de Casos de Uso -->
 #### Diagrama Casos de Uso.
