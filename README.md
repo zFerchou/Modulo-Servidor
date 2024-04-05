@@ -138,7 +138,6 @@ Evidencia de Ejecución de Casos de prueba.
 
 <!-- Iniciando -->
 ## Iniciando
-Iniciando.
 
 <!-- Requisitos -->
 ### Requisitos
