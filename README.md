@@ -73,7 +73,8 @@ Organigrama.
 
 <!-- Diagrama Gantt -->
 #### Diagrama Gantt.
-Diagrama Gantt.
+![image](https://github.com/zFerchou/Modulo-Servidor/assets/148410334/93a86ece-de51-45e4-88d7-815253161709)
+
 
 <!-- Análisis del proyecto -->
 ## Análisis de la Solución.
