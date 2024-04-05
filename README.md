@@ -6,7 +6,9 @@
   <summary>Tabla contenidos</summary>
   <ol>
     <li>
-      <a href="#acerca-del-proyecto">Acerca del Proyecto</a>
+      <a href="#acerca-del-proyecto">Acerca del Proyecto
+        El proyecto en el que se nos idinco trabajar se dividio en 4 partes para poderlo trabajar mediante 
+      </a>
       <ul>
         <li><a href="#descripción">Descripción
         </a></li>
