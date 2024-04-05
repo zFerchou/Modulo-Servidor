@@ -34,7 +34,6 @@
       <ul>
         <li><a href="#estándares-codificación">Estándares Codificación</a></li>
         <li><a href="#arquitectura">Arquitectura</a></li>
-        <li><a href="#código-fuente">Código Fuente</a></li>
       </ul>
     </li>      
     <li>
