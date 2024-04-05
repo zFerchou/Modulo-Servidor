@@ -120,7 +120,6 @@ Estándares empleados en la codificación
 
 <!-- Pruebas proyecto -->
 ## Pruebas.
-En ésta sección se describe  los artefactos generados en base a la solución.
 
 <!-- Casos de prueba -->
 #### Casos de prueba.
@@ -138,7 +137,7 @@ Evidencia de Ejecución de Casos de prueba.
 ### Requisitos
 * Tener Instalado SQL Server
 * Tener Instalado Visual Studio
-* Instalar el FrameWork de asp.NET
+* Instalar el FrameWork de ASP.NET
 * Tener un sistema operativo de gama media
 * Tener acceso a la base de datos del proyecto
   
