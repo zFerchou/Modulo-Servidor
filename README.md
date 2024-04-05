@@ -151,17 +151,19 @@ esto con la intencion de que cada integrante pudiera realizarlo de manera local 
 * Instalacion de tortoise
 
 Usamos el software de tortoise para bajar el proyecto
-mediante una URL bajamos el proyecto de forma que todos 
-los tengamos acceso al proyecto mediante nuestros equipos
 
 * Acceder con las credenciales proporcionadas
 
 Accedimos a la base de datos y al proyecto con las credenciales que nos proporcionaron las personas de nad
 
 
-*Instalar Proyecto
+* Instalar Proyecto
 
-Para instalar el proyecto nos 
+Para instalar el proyecto nos dirijimos al software de tortoise y colocamos la URL que nos proporciono la 
+empresa donde se encuentra guardado el proyecto y de ahi lo descargamos
+
+* Una vez terminado ejecutamos el proyecto en nuestro Visual Studio y lo corremos como Sitio web
+  
 
 
 
