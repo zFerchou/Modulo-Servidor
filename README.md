@@ -98,7 +98,6 @@ Agregar la imagen de los Casos de Uso.
 
 <!-- Modelo Relacional -->
 #### Modelo Relacional.
-![image](https://github.com/zFerchou/Modulo-Servidor/assets/148410334/96c6dd13-0844-4fd2-81b6-6ad89330e3e5)
 <!-- Diagrama de Clases -->
 #### Diagrama de Clases.
 
