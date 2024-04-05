@@ -156,7 +156,13 @@ los tengamos acceso al proyecto mediante nuestros equipos
 
 * Acceder con las credenciales proporcionadas
 
-Accedimos con las credenciales
+Accedimos a la base de datos y al proyecto con las credenciales que nos proporcionaron las personas de nad
+
+
+*Instalar Proyecto
+
+Para instalar el proyecto nos 
+
 
 
 ## Participantes
