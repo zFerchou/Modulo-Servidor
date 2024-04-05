@@ -87,7 +87,8 @@ Agregar la imagen de los Casos de Uso.
 
 <!-- Diseño del proyecto -->
 ## Diseño de la Solución.
-En ésta sección se indicará los artefactos generados en base a la solución.
+![image](https://github.com/zFerchou/Modulo-Servidor/assets/148410334/468904e6-e59e-43df-a60b-497a4f2169fe)
+
 
 <!-- Modelo Relacional -->
 #### Modelo Relacional.
