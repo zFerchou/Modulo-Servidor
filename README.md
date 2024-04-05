@@ -9,7 +9,7 @@
       <a href="#acerca-del-proyecto">Acerca del Proyecto</a>
       <ul>
         <li><a href="#descripción">Descripción</a></li>
-        Aqui
+        <a> Aqui logramos </a>
         <li><a href="#objetivos">Objetivos</a></li>
         <li><a href="#organigrama">Organigrama</a></li>
         <li><a href="#diagrama-gantt">Diagrama Gantt</a></li>
