@@ -136,7 +136,11 @@ Evidencia de Ejecución de Casos de prueba.
 
 <!-- Requisitos -->
 ### Requisitos
-Requisitos de Instalación.
+* Tener Instalado SQL Server
+* Tener Instalado Visual Studio
+* Instalar el FrameWork de asp.NET
+* Tener un sistema operativo de gama media
+  
 
 <!-- Instalación -->
 ### Instalacion
