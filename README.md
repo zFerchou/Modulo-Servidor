@@ -149,9 +149,12 @@ Instalación del Software
 
 
 ## Participantes
-* [participante 1]()
-* [participante 2]()
-* [participante 3]()
+* Jesús Yael Padrón Grimaldo
+* Luis Fernando Medina Arredondo
+* Carol Vanessa Gallegos Martínez
+* Everardo Guadalupe Torres Tovar
+* Miguel Ángel Rodríguez Mejia
+
 
 [contribuidores-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
 [contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
