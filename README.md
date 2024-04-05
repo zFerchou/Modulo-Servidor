@@ -118,9 +118,6 @@ Estándares empleados en la codificación
 #### Arquitectura.
 Definir los patrones empleados y de seguridad.
 
-<!-- Código Fuente -->
-#### Código Fuente.
-Código Fuente de la solución
 
 
 <!-- Pruebas proyecto -->
@@ -148,18 +145,6 @@ Requisitos de Instalación.
 ### Instalacion
 Instalación del Software
 
-
-## Guias
-Guias de Uso.
-
-## contribucion
-Contribucion.
-
-## Licencia
-Licencia.
-
-## Contacto
-Contacto.
 
 ## Participantes
 * [participante 1]()
