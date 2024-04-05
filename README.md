@@ -54,11 +54,13 @@
 
 <!-- Acerca del proyecto -->
 ## Acerca del proyecto
-Requisitos.
+El proyecto
 
 <!-- Descripción -->
 #### Descripción.
-Indicar la descripción del proyecto (tiempo, costo y calidad).
+El proyecto estaba planeado para ser trabajado en un periodo de 4 meses en los cuales los integrantes de los equipos se encargarian de
+realizar un modulo por cada equipo respectivamente de manera que todos contribuyeran con una parte del mismo y que se fuera desarrollando 
+de forma que todos los equipos trabajaran al mismo ritmo.
 
 <!-- Objetivos -->
 #### Objetivos.
