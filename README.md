@@ -110,15 +110,11 @@ Esquema de los componentes que interactúan (Modelo, Vista, Controlador, Servido
 
 <!-- Implementación del proyecto -->
 ## Implementación.
-En ésta sección se describe  los artefactos generados en base a la solución.
+En esta sección del proyecto, implementamos varias acciones para agilizar el módulo del servidor, el cual cuenta con diversas funciones. Entre ellas, se encuentra la captura de información de los servidores almacenados en la base de datos. En este mismo apartado del módulo, se pueden consultar los detalles de los servidores, así como realizar modificaciones como actualizar o eliminar un servidor específico. Además, el módulo incluye otra sección que permite dar de alta nuevos servidores.
 
 <!-- Estándares de Codificación -->
 #### Estándares Codificación.
 Estándares empleados en la codificación
-
-<!-- Arquitectura MVC y Middleware -->
-#### Arquitectura.
-Definir los patrones empleados y de seguridad.
 
 
 
