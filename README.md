@@ -108,7 +108,6 @@ La empresa tenía toda la información guardada en documentos de Excel, lo cual 
 <!-- Diagrama de Componentes -->
 #### Diagrama de Componentes.
 ![image](https://github.com/zFerchou/Modulo-Servidor/assets/148410334/d4cb2893-116b-4441-ace5-41ddd25763ed)
-Esquema de los componentes que interactúan (Modelo, Vista, Controlador, Servidor Web, Servidor de base de datos)
 
 
 <!-- Implementación del proyecto -->
