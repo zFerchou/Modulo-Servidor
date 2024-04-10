@@ -64,7 +64,7 @@ Los objetivos se trabajaron simultáneamente, centrándose principalmente en el 
 
 <!-- Organigrama -->
 #### Organigrama.
-Organigrama.
+![image](https://github.com/zFerchou/Modulo-Servidor/assets/148410334/214afdab-d06b-4a41-b59b-50f9597e8a3b)
 
 <!-- Diagrama Gantt -->
 #### Diagrama Gantt.
