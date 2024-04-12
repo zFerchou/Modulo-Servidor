@@ -121,13 +121,11 @@ Estándares empleados en la codificación
 ## Pruebas.
 
 <!-- Casos de prueba -->
-#### Casos de prueba.
-Indicar los casos de prueba
+#### Casos de prueba.[Casos de Prueba (1).xlsx](https://github.com/zFerchou/Modulo-Servidor/files/14961583/Casos.de.Prueba.1.xlsx)
 
-<!-- Ejecución Casos de prueba -->
+
 #### Ejecución.
-Evidencia de Ejecución de Casos de prueba.
-
+Evidencia de Ejecución de Casos de prueba: 
 
 <!-- Iniciando -->
 ## Iniciando
