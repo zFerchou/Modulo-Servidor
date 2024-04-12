@@ -56,12 +56,10 @@
 
 <!-- Descripción -->
 #### Descripción.
-El proyecto estaba planeado para ser trabajado en un período de 4 meses, durante los cuales los integrantes de los equipos se encargarían de desarrollar un módulo cada uno, de manera que todos contribuyeran con una parte del mismo y se fuera desarrollando de forma que todos los equipos trabajaran al mismo ritmo.
-
+El proyecto consiste en el desarrollo de un sistema modularizado para la gestión de servidores dentro de una empresa. Uno de estos módulos, el que nos ocupa, está diseñado específicamente para manejar todas las operaciones relacionadas con los servidores en producción.
 <!-- Objetivos -->
 #### Objetivos.
-Los objetivos se trabajaron simultáneamente, centrándose principalmente en el trabajo en equipo y la capacidad de adaptación de los integrantes de los equipos para trabajar en un módulo asignado por el encargado. En total, participaron 4 equipos que se dividieron en grupos de 5 a 6 personas para desarrollar cada módulo. En cada equipo, había un líder encargado de dirigir y asignar las tareas a los integrantes del equipo.
-
+El objetivo era crear un módulo que permitiera consultar, agregar, eliminar, modificar y ver detalles de servidores que estuvieran en funcionamiento con la empresa. Esto tenía como finalidad agilizar las tareas de la empresa y facilitar la implementación de nuevos servidores. Además, este módulo debía integrarse directamente en un proyecto más amplio donde los distintos módulos estarían interconectados, lo que proporcionaría una mayor fluidez al trabajar con servidores.
 <!-- Organigrama -->
 #### Organigrama.
 ![image](https://github.com/zFerchou/Modulo-Servidor/assets/148410334/214afdab-d06b-4a41-b59b-50f9597e8a3b)
