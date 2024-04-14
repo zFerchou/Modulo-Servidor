@@ -56,7 +56,13 @@
 
 <!-- Descripción -->
 #### Descripción.
-El proyecto consiste en el desarrollo de un sistema modularizado para la gestión de servidores dentro de una empresa. Uno de estos módulos, el que nos ocupa, está diseñado específicamente para manejar todas las operaciones relacionadas con los servidores en producción.
+El proyecto tiene una duración estimada de 4 meses y está enfocado en el desarrollo de un sistema modularizado para la gestión de servidores dentro de una empresa. El equipo está compuesto por 5 integrantes con roles específicos en la metodología Scrum:
+
+- **Scrum Master:** Encargado de facilitar el proceso Scrum, garantizando que se sigan las prácticas y resolviendo los impedimentos que puedan surgir durante el desarrollo del proyecto.
+- **Product Owner (PO):** Responsable de representar las necesidades del cliente, gestionar el backlog de productos y priorizar las tareas según el valor que aporten al proyecto.
+- **Equipo de Desarrollo:** Integrado por Desarrollador 1, Desarrollador 2, Desarrollador 3, Desarrollador 4 y Desarrollador 5, quienes se encargan de implementar las funcionalidades del sistema bajo la coordinación del Scrum Master y el seguimiento de las directrices establecidas por el Product Owner.
+
+Para abordar los riesgos, se ha implementado la metodología Scrum, la cual incluye estrategias para mitigar posibles contratiempos. Los interesados del proyecto incluyen al equipo de desarrollo de software, representando a la empresa Nad GLOBAL.
 <!-- Objetivos -->
 #### Objetivos.
 El objetivo era crear un módulo que permitiera consultar, agregar, eliminar, modificar y ver detalles de servidores que estuvieran en funcionamiento con la empresa. Esto tenía como finalidad agilizar las tareas de la empresa y facilitar la implementación de nuevos servidores. Además, este módulo debía integrarse directamente en un proyecto más amplio donde los distintos módulos estarían interconectados, lo que proporcionaría una mayor fluidez al trabajar con servidores.
@@ -79,9 +85,6 @@ La empresa tenía toda la información guardada en documentos de Excel, lo cual 
 ![image](https://github.com/zFerchou/Modulo-Servidor/assets/148410334/8e8fcf10-9b3c-4903-82df-cab263be34dc)
 ![image](https://github.com/zFerchou/Modulo-Servidor/assets/148410334/6b8d5357-503f-42a5-92be-6e53de147947)
 ![image](https://github.com/zFerchou/Modulo-Servidor/assets/148410334/3e1b48e7-191d-4138-a97e-2b71965ac376)
-
-
-
 
 
 
@@ -113,7 +116,14 @@ En esta sección del proyecto, implementamos varias acciones para agilizar el m�
 
 <!-- Estándares de Codificación -->
 #### Estándares Codificación.
-Estándares empleados en la codificación
+En nuestro proyecto, aplicamos las siguientes reglas y formas de trabajo para diseñar y gestionar la base de datos de manera efectiva
+
+- **Modelado de Datos:** Utilizamos un enfoque de modelado relacional para representar la estructura de la base de datos, asegurando la integridad y consistencia de los datos.
+- **Nombres de Objetos:** Los nombres de tablas, columnas, índices  siguen una convención clara y significativa para facilitar la comprensión y mantenimiento del esquema.
+- **Normalización:** Aplicamos la normalización de datos para reducir la redundancia y mejorar la eficiencia del sistema.
+- **Procedimientos Almacenados:** Implementamos procedimientos almacenados de manera cuidadosa para centralizar la lógica de negocio y asegurar la coherencia de los datos.
+- **Seguridad:** Aplicamos medidas de seguridad adecuadas, como el uso de roles y permisos, para proteger la integridad y confidencialidad de la información almacenada en la base de datos.
+- **Documentación:**  Nos aseguramos de mantener una documentación actualizada del diseño de la base de datos, la cual incluye descripciones detalladas de las tablas, sus relaciones y las reglas que rigen el funcionamiento del negocio.
 
 
 
