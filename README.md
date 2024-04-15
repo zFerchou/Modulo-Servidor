@@ -116,16 +116,27 @@ En esta sección del proyecto, implementamos varias acciones para agilizar el m�
 
 <!-- Estándares de Codificación -->
 #### Estándares Codificación.
-En nuestro proyecto, aplicamos las siguientes reglas y formas de trabajo para diseñar y gestionar la base de datos de manera efectiva
+## Especificaciones Generales
 
-- **Modelado de Datos:** Utilizamos un enfoque de modelado relacional para representar la estructura de la base de datos, asegurando la integridad y consistencia de los datos.
-- **Nombres de Objetos:** Los nombres de tablas, columnas, índices  siguen una convención clara y significativa para facilitar la comprensión y mantenimiento del esquema.
-- **Normalización:** Aplicamos la normalización de datos para reducir la redundancia y mejorar la eficiencia del sistema.
-- **Procedimientos Almacenados:** Implementamos procedimientos almacenados de manera cuidadosa para centralizar la lógica de negocio y asegurar la coherencia de los datos.
-- **Seguridad:** Aplicamos medidas de seguridad adecuadas, como el uso de roles y permisos, para proteger la integridad y confidencialidad de la información almacenada en la base de datos.
-- **Documentación:**  Nos aseguramos de mantener una documentación actualizada del diseño de la base de datos, la cual incluye descripciones detalladas de las tablas, sus relaciones y las reglas que rigen el funcionamiento del negocio.
+### Idioma del Código
+- Se trabajará en el idioma predominante en la aplicación de software.
 
+### Nombres de Objetos de Base de Datos
+- Todos los nombres de los objetos de base de datos deben tener coherencia con su uso, contenido o funcionalidad.
+- No usar caracteres especiales o la letra 'ñ' en el nombramiento de objetos en las bases de datos.
 
+## Bases de Datos
+
+### Nombramiento de Bases de Datos
+- Utilizar sustantivos.
+- Usar todo en mayúsculas.
+- Hacer uso del prefijo "BD".
+- Usar palabras que identifiquen el objetivo de la base de datos.
+
+[Prefijo] + [Identificador aplicativo] + [Cliente]* BDSGCEMPRESA
+
+## Tablas
+Las tablas se deben de categorizar en grupos para su fácil identificación y control. El nombre de la tabla se deberá de conformar por un prefijo en minúsculas, mismo que se utilizará dependiendo del tipo de tabla, seguido del nombre de la tabla, para lo cual es necesario considerar que se deben nombrar utilizando sustantivos y estructura camel case, es decir, iniciando con la primera letra de cada palabra en mayúsculas y el resto en minúscula. Además de usar palabras que identifiquen a los datos que se almacenan en las tablas para identificarlas fácilmente.
 
 <!-- Pruebas proyecto -->
 ## Pruebas.
@@ -150,11 +161,11 @@ Evidencia de Ejecución de Casos de prueba:
   
 
 <!-- Instalación -->
-### Instalacion
+### Instalación
 Para poder trabajar con el proyecto tuvimos que realizar una serie de pasos los cuales nos permitieran trabajar con el proyecto
 esto con la intencion de que cada integrante pudiera realizarlo de manera local en su respectivo equipo de trabajo
 
-* Instalacion de tortoise
+* Instalación de tortoise
 
 Usamos el software de tortoise para bajar el proyecto
 
