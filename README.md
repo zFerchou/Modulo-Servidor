@@ -158,6 +158,38 @@ Evidencia de Ejecución de Casos de prueba:
 * Instalar el FrameWork de ASP.NET
 * Tener un sistema operativo de gama media
 * Tener acceso a la base de datos del proyecto
+## Plan de Iteraciones
+
+El desarrollo del proyecto se organizará en iteraciones de 2 semanas cada una, donde se abordarán las siguientes tareas y actividades:
+
+### Iteración 1 (Semana 1 y 2)
+- Actualización de pantallas de Historias de Usuario según los requerimientos.
+- Corrección del Diagrama de Componentes.
+- Mapeo de Historias de Usuario con casos de prueba para validar flujos alternos.
+- Revisión y corrección del Caso de Prueba 1 en datos y acciones de entrada.
+- Mapeo de casos de prueba exitosos y no exitosos con los requerimientos.
+
+### Iteración 2 (Semana 3 y 4)
+- Implementación de estándares de codificación.
+- Revisión y ajuste de la arquitectura del proyecto.
+- Elaboración del diagrama de actividades.
+
+### Iteración 3 (Semana 5 y 6)
+- Creación y ejecución de casos de prueba.
+- Evaluación y corrección de la ejecución de casos de prueba.
+- Implementación de la documentación del proyecto.
+
+### Iteración 4 (Semana 7 y 8)
+- Implementación de mejoras y correcciones según retroalimentación.
+- Revisión y ajuste de la documentación del proyecto.
+- Preparación para la entrega final.
+
+### Iteración 5 (Semana 9 y 10)
+- Preparación y realización de pruebas de aceptación.
+- Corrección de errores y ajustes finales.
+- Entrega final del proyecto.
+
+Durante cada iteración se llevará a cabo reuniones de revisión y planificación para evaluar el avance, identificar posibles riesgos y ajustar el plan de trabajo según sea necesario.
   
 
 <!-- Instalación -->
