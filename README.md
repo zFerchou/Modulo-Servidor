@@ -216,12 +216,7 @@ empresa donde se encuentra guardado el proyecto y de ahi lo descargamos
 
 
 
-## Participantes
-* Jesús Yael Padrón Grimaldo
-* Luis Fernando Medina Arredondo
-* Carol Vanessa Gallegos Martínez
-* Everardo Guadalupe Torres Tovar
-* Miguel Ángel Rodríguez Mejia
+
 
 
 [contribuidores-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
